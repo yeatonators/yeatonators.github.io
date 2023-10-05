@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+
+h1 {
+  border-style: solid;
+  border-width: medium;
+  border-color: #fc89ac;
+  border-radius: 5px;
+}
+
+body {
+  font-family: 'Hi Melody', cursive;
+  background-color: #ffd1dc;
+  color: white;
+  text-align: center;
+}
